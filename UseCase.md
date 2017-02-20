@@ -1,7 +1,7 @@
 
 # Use case 01
 
-# Title: Determine License and Vulnerability Result
+## Title: Determine License and Vulnerability Result
 
 Primary Actor: Corporate Developer
 
@@ -24,7 +24,7 @@ Tigger: The Corporate developer sends the software package to scan for license a
 
 # Use case 02
 
-#v Title: Apply new policy to the software package
+## Title: Apply new policy to the software package
 
 Primary Actor: Corporate Manager
 
@@ -49,7 +49,7 @@ Tigger: The Corporate manager create new policy the for software package or send
 
 # Use case 03
 
-# Title: Edit or Update a policy to software package
+## Title: Edit or Update a policy to software package
 
 Primary Actor: Corporate Manager
 
