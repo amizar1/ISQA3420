@@ -1,7 +1,7 @@
 
-Use case 01
+# Use case 01
 
-Title: Determine License and Vulnerability Result
+# Title: Determine License and Vulnerability Result
 
 Primary Actor: Corporate Developer
 
@@ -22,9 +22,9 @@ Failed End Conditions: Corporate developer does not receive the correct license 
 
 Tigger: The Corporate developer sends the software package to scan for license and vulnerability.
 
-Use case 02
+# Use case 02
 
-Title: Apply new policy to the software package
+#v Title: Apply new policy to the software package
 
 Primary Actor: Corporate Manager
 
@@ -47,9 +47,9 @@ Failed End Conditions:
 
 Tigger: The Corporate manager create new policy the for software package or send existing policy to edit/update.
 
-Use case 03
+# Use case 03
 
-Title: Edit or Update a policy to software package
+# Title: Edit or Update a policy to software package
 
 Primary Actor: Corporate Manager
 
