@@ -1,4 +1,4 @@
-## Use case 01
+## Use Case 01
 
 **Title:** Determine License and Vulnerability Result
 
@@ -23,7 +23,7 @@
 <br><br>
 
 
-## Use case 02
+## Use Case 02
 
 **Title:** Apply new policy to the software package
 
@@ -49,7 +49,7 @@
 <br><br>
 
 
-## Use case 03
+## Use Case 03
 
 **Title:** Edit or Update a policy to software package
 
