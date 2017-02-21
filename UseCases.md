@@ -4,7 +4,7 @@
 
 **Primary Actor:** Corporate Developer
 
-**Goal in Context:** The Corporate developer is able to determine the license and vulnerability result from the provided software package
+**Goal in Context:** The Corporate developer is able to determine the license and vulnerability result from the provided software package.
 
 **Stakeholders:**
 - Corporate Developer: To provide the relevant software package result
@@ -29,7 +29,7 @@
 
 **Primary Actor:** Corporate Manager
 
-**Goal in Context:** The Corporate manager is able to apply the new policy to the software package
+**Goal in Context:** The Corporate manager is able to apply the new policy to the software package.
 
 **Stakeholders:**
 - Corporate Manager: To apply the correct policy to the software package
@@ -55,7 +55,7 @@
 
 **Primary Actor:** Corporate Manager
 
-**Goal in Context:** The Corporate manager is able to edit or update the policy to the software package
+**Goal in Context:** The Corporate manager is able to edit or update the policy to the software package.
 
 **Stakeholders:** 
 - Corporate Manager: To edit or update the policy correctly to the software package
