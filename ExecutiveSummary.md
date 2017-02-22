@@ -1,1 +1,6 @@
-Create new Executive Summary file for the project.
+## Executive Summary
+
+Many companies and organizations use the free open source software and external source codes for their projects. Open source software helps them to save time and money using the external source codes but there are risks associated with it. The problem in this system is how to design the software that avoid the risks while using external source codes and external database information.  It is important to check and verify the license and vulnerability of the software package by applying correct policy that accomplish with developed software package. 
+
+The purpose of this project is to develop the system that use the free open source software by checking the license and vulnerability with the policy compliance.  In this project, Corporate Developer can check and verify the license and vulnerability results by sending the developed software package to License Scanner and external NIST Vulnerability Database. Corporate Developer and Manager can get the license and vulnerability information from the License and Vulnerability Database so they can make correct decision for developing software. Corporate Manager has authority to implement and modify the policy as per the requirement of the software package.
+
