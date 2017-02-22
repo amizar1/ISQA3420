@@ -41,9 +41,7 @@
 
 **Main Success Scenario:** The Corporate manager apply correct policy to the software package and receive correct policy information.
 
-**Failed End Conditions:**
-- Corporate manager does not apply correct policy to the software package
-- Corporate developer does not receive correct policy information of the software package
+**Failed End Conditions:** Corporate manager does not apply correct policy to the software package
 
 **Trigger:** The Corporate manager create new policy for the software package or send existing policy to edit or update.
 <br><br>
@@ -67,9 +65,7 @@
 
 **Main Success Scenario:** The Corporate manager edit or update the policy correctly to software package and receive correct policy information.
 
-**Failed End Conditions:**
-- Corporate manager does not edit or update correct policy to the software package
-- Corporate developer does not receive correct policy information of the software package
+**Failed End Conditions:** Corporate manager does not edit or update correct policy to the software package
 
 **Trigger:** The Corporate manager create new policy for the software package or send existing policy to edit or update.
 
