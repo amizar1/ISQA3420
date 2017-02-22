@@ -4,11 +4,13 @@
 **Corporate Manager:**  The person responsible for managing the software package such as queries the license and vulnerability database, apply and modify the policy of software package
 
 ## Processes
-**Software Data Management:** Receive the license and vulnerability results from License Scanner and NIST Vulnerability Database and provide the results to Corporate Developer once the request has been made. Also send the results to Licenses and Vulnerabilities Database for storage 
-Scanner License: Scan the licenses that are in the software package
+**Software Data Management:** Receive the license and vulnerability results from License Scanner and NIST Vulnerability Database and provide the results to Corporate Developer once the request has been made. Also send the results to Licenses and Vulnerabilities Database for storage
+
+**Scanner License:** Scan the licenses that are in the software package
 
 **Get License and Vulnerability Information:** Pulls license and vulnerability information from database and provide it to Corporate Developer and Manager
-Apply new policy: Process new policy received from Corporate Manager and send it to Policy Database
+
+**Apply new policy:** Process new policy received from Corporate Manager and send it to Policy Database
 
 **Edit or Update Policy:** Modify the policy received from Corporate Manager and send it to Policy Database
 
