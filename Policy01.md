@@ -1,9 +1,9 @@
-Green Licenses
+**Green Licenses**
  - MIT
  - BSD
  - LGPL
  - Apache 2.0
  - GPLv3
   
-Red Licenses
+**Red Licenses**
  - Affero GPL
